@@ -1,18 +1,3 @@
-# Nota-Fiscal-Python
-## Imagens da execução
-### Home
-![Home](./Img/Home.png)
-### Cadastro Produto
-![Cadastro](./Img/Cadastro.png)
-### Relatório Produto
-![Relatorio](./Img/Relatório.png)
-### Cadastro Nota
-![Cadastro](./Img/Cadastro2.png)
-### Relatório Nota
-![Relatorio](./Img/Relatório2.png)
-
-##Codigo
-```Python
 op = 1
 quant = []
 prodnf = []
@@ -88,4 +73,3 @@ while (op != 0):
 
   else:
     print('\nInformação inválida...')
-```
